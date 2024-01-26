@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [http://abraham27.vercel.app/](http://abraham27.vercel.app/)
 
-- 💬 Ask me about **Laravel, Node.js, Express.js React.js, Relational Database**
+- 💬 Ask me about **Laravel, Node.js, Express.js React.js, and Relational Database**
 
 - 📫 How to reach me **abrish.d143t@gmail.com**
 
