@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrahamdulla&label=Profile%20views&color=0e75b6&style=flat" alt="abrahamdulla" /> </p>
 
-- 🔭 I’m currently working on **ERP Project (Productivity enhancement platform)**
+- 🔭 I’m currently working on **ERP (Productivity enhancement platform) Project**
 
 - 🌱 I’m currently learning **React Native, AWS Solution Architect, Software Product Management**
 
