@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ERP (Productivity enhancement platform) Project**
 
-- 🌱 I’m currently learning **React Native, AWS Solution Architect, Software Product Management**
+- 🌱 I’m currently learning **, AWS Solution Architect, Software Product Management**
 
 - 👨‍💻 All of my projects are available at [http://abraham27.vercel.app/](http://abraham27.vercel.app/)
 
